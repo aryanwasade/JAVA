@@ -66,3 +66,9 @@ public class StudentManagementSystem {
         gs.displayGraduateStudent();
     }
 }
+----- Graduate Student Details -----
+Name: Aryan
+Age: 21
+Roll Number: 101
+Marks: 85.5
+Specialization: Computer Science
