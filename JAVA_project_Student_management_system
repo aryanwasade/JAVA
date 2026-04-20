@@ -62,11 +62,11 @@ public class StudentManagementSystem {
         );
 
         // Display details
-        System.out.println("----- Graduate Student Details -----");
+        System.out.println("Graduate Student Details:");
         gs.displayGraduateStudent();
     }
 }
------ Graduate Student Details -----
+Graduate Student Details:
 Name: Aryan
 Age: 21
 Roll Number: 101
